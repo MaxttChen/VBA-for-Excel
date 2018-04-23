@@ -55,3 +55,5 @@ MsgBox "转换完成"
 End Sub
 
 ```
+
+附上 SaveAs 方法保存的版本 枚举类型:https://msdn.microsoft.com/zh-cn/VBA/Excel-VBA/articles/xlfileformat-enumeration-excel
